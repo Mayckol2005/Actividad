@@ -1,3 +1,10 @@
+"""""
+Integrantes:
+Carlos Moil
+Mayckol Mardones 
+
+"""""
+
 import random
 
 """
